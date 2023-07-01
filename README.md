@@ -1,8 +1,14 @@
+<!--
+  you may find that the stlye of this file is dumb.
+  you are correct!
+  i just want to practice html XD
+-->
+
 <h1>A-CppRunner</h1>
 <p>Just a simple C++ runner for <b>WINDOW ONLY</b></p>
 <hr>
 <h2>How to use?</h2>
-<p>There are 3 files in the folder :</p>
+<p>There are some files in the folder :</p>
 <ol>
   <li>a.cpp</li>
   <li>a.bat</li>
@@ -14,8 +20,27 @@
 <br>
 <p>You can change the name the folder.</p>
 <p><b>But</b> make sure <i>a.cpp</i> and <i>a.bat</i> are in the same folder.</p>
+<h2>Output of <i>a.bat</i></h2>
+<p>Your program output of <i>a.cpp</i> will be the content above
+<pre><code>
+
+Press any key to continue . . .
+</code></pre>
+<p>Details of syntax error will be shown if there are any.</p>
+<p><strong>It is unable to show runtime error.</strong> (Maybe upgraded in the next version)</p>
 <hr>
 <h2>Tips</h2>
-<p>You can use notepad to open and edit <i>a.cpp</i>, and run <i>a.bat</i> at the same time.</p>
+<p>You can use notepad to open and edit <i>a.cpp</i>, while running <i>a.bat</i> besides.</p>
+
+<!-- really dumb -->
 <img src="https://github.com/hwtam/A-CppRunner/blob/main/images/notepad.png"
   alt="notepad.png" width=auto>
+
+<p>You don't need to close the <i>a.bat</i> window.</p>
+<p>After you change the c++ code, 
+  you can just click on the <i>a.bat</i> window(to set focus on it) and press any key to run the <b>new</b> code.</p>
+<br>
+<p>You can also do the same thing using an IDE(for example VScode).</p>
+<img src="https://github.com/hwtam/A-CppRunner/blob/main/images/VSCode.png"
+  alt="VSCode.png" width=auto>
+<p><strong>But why will you use this with an IDE, try the "Code Runner" extension instead.</strong></p>

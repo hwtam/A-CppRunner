@@ -22,10 +22,13 @@
 <p><b>But</b> make sure <i>a.cpp</i> and <i>a.bat</i> are in the same folder.</p>
 <h2>Output of <i>a.bat</i></h2>
 <p>Your program output of <i>a.cpp</i> will be the content above
+  
+<!-- "\n\nPress any key to continue . . ." -->
 <pre><code>
 
 Press any key to continue . . .
 </code></pre>
+
 <p>Details of syntax error will be shown if there are any.</p>
 <p><strong>It is unable to show runtime error.</strong> (Maybe upgraded in the next version)</p>
 <hr>
@@ -37,10 +40,22 @@ Press any key to continue . . .
   alt="notepad.png" width=auto>
 
 <p>You don't need to close the <i>a.bat</i> window.</p>
-<p>After you change the c++ code, 
+<p>After you change the C++ code, 
   you can just click on the <i>a.bat</i> window(to set focus on it) and press any key to run the <b>new</b> code.</p>
 <br>
 <p>You can also do the same thing using an IDE(for example VScode).</p>
 <img src="https://github.com/hwtam/A-CppRunner/blob/main/images/VSCode.png"
   alt="VSCode.png" width=auto>
 <p><strong>But why will you use this with an IDE, try the "Code Runner" extension instead.</strong></p>
+<br><hr><br>
+<h3>This project is designed for :</h3>
+<ul>
+  <li>people who hate using IDE</li>
+  <li>people who just want to run a simple line of code quickly</li>
+  <li><del>me, who just want to try batch programming</del> XD</li>
+</ul>
+<br>
+<h3>Fun fact</h3>
+<p>If you don't specify the output file name when compiling your C++ program using g++(<code>g++ a.cpp</code>),
+  the default name is <i>a.exe/a.out</i>.</p>
+<p>That's why there are so many 'a' in this project(<strong>A-CppRunner</strong>).</p>

@@ -8,7 +8,7 @@
 <p>Just a simple C++ runner for <b>WINDOW ONLY</b></p>
 <hr>
 <h2>How to use?</h2>
-<p>Download <i>a.zip</i> and unzip it</p>
+<p>Download <i>a.zip</i> and unzip it.</p>
 <p>There are some files in the folder :</p>
 <ol>
   <li>a.cpp</li>
@@ -41,13 +41,15 @@ Press any key to continue . . .
   alt="notepad.png" width=auto>
 
 <p>You don't need to close the <i>a.bat</i> window.</p>
-<p>After you change the C++ code(remember to save the changes first), 
+<p>After you change the C++ code(remember to save the changes first),
   you can just click on the <i>a.bat</i> window(to set focus on it) and press any key to run the <b>new</b> code.</p>
 <br>
 <p>You can also do the same thing using an IDE(for example VScode).</p>
 <img src="https://github.com/hwtam/A-CppRunner/blob/main/images/VSCode.png"
   alt="VSCode.png" width=auto>
-<p><strong>But why will you use this with an IDE, try the "Code Runner" extension instead.</strong></p>
+<p><strong>But why will you use this with an IDE, try the
+  <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner" target="_blank">"Code Runner"</a>
+  extension instead.</strong></p>
 <br><hr><br>
 <h3>This project is designed for :</h3>
 <ul>

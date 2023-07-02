@@ -8,6 +8,7 @@
 <p>Just a simple C++ runner for <b>WINDOW ONLY</b></p>
 <hr>
 <h2>How to use?</h2>
+<p>Download <i>a.zip</i> and unzip it</p>
 <p>There are some files in the folder :</p>
 <ol>
   <li>a.cpp</li>
@@ -40,7 +41,7 @@ Press any key to continue . . .
   alt="notepad.png" width=auto>
 
 <p>You don't need to close the <i>a.bat</i> window.</p>
-<p>After you change the C++ code, 
+<p>After you change the C++ code(remember to save the changes first), 
   you can just click on the <i>a.bat</i> window(to set focus on it) and press any key to run the <b>new</b> code.</p>
 <br>
 <p>You can also do the same thing using an IDE(for example VScode).</p>

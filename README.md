@@ -8,7 +8,7 @@
 <p>Just a simple C++ runner for <b>WINDOW ONLY</b></p>
 <hr>
 <h2>How to use?</h2>
-<p>Download <i>a.zip</i> and unzip it.</p>
+<p>Download <a href="https://github.com/hwtam/A-CppRunner/releases/download/v1/a.zip">a.zip</a> and unzip it.</p>
 <p>There are some files in the folder :</p>
 <ol>
   <li>a.cpp</li>

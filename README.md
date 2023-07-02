@@ -48,6 +48,7 @@ Press any key to continue . . .
 <img src="https://github.com/hwtam/A-CppRunner/blob/main/images/VSCode.png"
   alt="VSCode.png" width=auto>
 <p><strong>But why will you use this with an IDE, try the
+  <!-- why target="_blank" not working ? -->
   <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner" target="_blank">"Code Runner"</a>
   extension instead.</strong></p>
 <br><hr><br>
